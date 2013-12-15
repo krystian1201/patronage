@@ -3,7 +3,7 @@
 
     <string name="app_name">PatronageTest1</string>
     <string name="action_settings">Settings</string>
-    <string name="processing_data_message">Wait. Data is being processed...</string>
-    <string name="processing_data_finished_message">Data has been processed</string>
+    <string name="processing_data_message">Please be patient ;-). Data is being processed...</string>
+    <string name="processing_data_finished_message">Processing data finished. Output XML file saved.</string>
 
 </resources>
