@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<items to_sort="ascending">
+      <item type="integer">3</item>
+      <item type="string">Hello</item>
+      <item type="integer">1</item>
+      <item type="string">world</item>
+      <item type="integer">2</item>
+</items>
